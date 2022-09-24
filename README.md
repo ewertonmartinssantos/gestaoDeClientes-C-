@@ -1,2 +1,2 @@
-# gestaoDeClientes-C-
-Projeto gestão de clientes com testes unitários
+# gestaoDeClientes-C#
+Projeto gestão de clientes com testes unitários - C#
